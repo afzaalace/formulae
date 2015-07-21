@@ -1,0 +1,28 @@
+{
+  "name": "formulae",
+  "version": "1.0.0",
+  "description": "Formulae parser for javascript.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afzaalace/formulae.git"
+  },
+  "keywords": [
+    "formula",
+    "formulae",
+    "parser",
+    "math"
+  ],
+  "author": "afzaalace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afzaalace/formulae/issues"
+  },
+  "homepage": "https://github.com/afzaalace/formulae"
+}
